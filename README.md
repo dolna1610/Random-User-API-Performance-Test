@@ -5,6 +5,7 @@ Here Load testing is performed using RandomUser API where the expected load is 1
 The excel and word file can be accessed from:
 - https://docs.google.com/spreadsheets/d/1j18miSnVLfim2eFGtGltc-ViVKfFAHVw/edit#gid=173183062
 - https://docs.google.com/document/d/1rukHcK8iLkfMJD4Md081-t25hJIHSrAL/edit 
+- https://docs.google.com/spreadsheets/d/1WPt5TG_-gCbBs6aMZkJcZoi-YaeUCfut/edit#gid=1959779117 
 
 ## Overall TPS and test breakdown.
 ![User-API-load-TPS](https://user-images.githubusercontent.com/93023509/194759740-6e71c453-1c64-41c7-8bfc-44ca76c6d0a0.PNG)
