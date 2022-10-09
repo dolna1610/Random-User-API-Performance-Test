@@ -10,7 +10,7 @@ The excel and word file can be accessed from:
 ![User-API-load-TPS](https://user-images.githubusercontent.com/93023509/194759740-6e71c453-1c64-41c7-8bfc-44ca76c6d0a0.PNG)
 
 ## Individual Test Reports
-    - 166 users for 60 seconds
+- 166 users for 60 seconds
       ![60s](https://user-images.githubusercontent.com/93023509/194759843-0d4e31d1-20d8-4f08-82f2-e9e7b41e2fcf.PNG)
     - 833 users for 300 seconds
       ![300s](https://user-images.githubusercontent.com/93023509/194759882-885b9c34-f12c-4bd1-b8b6-7981544adcfb.PNG)
