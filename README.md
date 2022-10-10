@@ -2,10 +2,8 @@
 ## Scenario
 Here Load testing is performed using RandomUser API where the expected load is 1,20,000 within 12 hour. Severall tests has been performed for 60s, 300s, 600s and 900s load using Jmeter. The tests having TPS breakdown and also Bottleneck/stress test point are summarized in Excel spreadsheet and the images of tests screenshots are attached in doc file containing HTML report for the last test of 900s having 2500 users.
 
-The excel and word file can be accessed from:
-- https://docs.google.com/spreadsheets/d/1j18miSnVLfim2eFGtGltc-ViVKfFAHVw/edit#gid=173183062
-- https://docs.google.com/document/d/1rukHcK8iLkfMJD4Md081-t25hJIHSrAL/edit 
-- https://docs.google.com/spreadsheets/d/1WPt5TG_-gCbBs6aMZkJcZoi-YaeUCfut/edit#gid=1959779117 
+The excel report and word file can be accessed from:
+- [Excel report, bottleneck/stress test point report and Word file having test screenshots](https://github.com/dolna1610/Random-User-API-Performance-Test/tree/main/Resources)
 
 ## Overall TPS and test breakdown.
 ![User-API-load-TPS](https://user-images.githubusercontent.com/93023509/194759740-6e71c453-1c64-41c7-8bfc-44ca76c6d0a0.PNG)
